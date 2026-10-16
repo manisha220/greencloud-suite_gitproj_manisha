@@ -3,7 +3,7 @@
 An interactive Streamlit demonstration for Green Information Technology (GIT), Unit IV — Green Cloud Computing.
 
 **Author:** Manisha Chaubey  
-**USN:** 1NT23IS116  
+**Subject:** GIT
 **Institution:** Nitte Meenakshi Institute of Technology (NMIT), Bangalore
 
 ## What the application demonstrates
